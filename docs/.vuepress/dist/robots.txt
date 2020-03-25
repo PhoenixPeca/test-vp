@@ -1,0 +1,5 @@
+User-agent: *
+Allow:
+Disallow: /
+Sitemap: https:/docs.rakwireless.com/sitemap.xml
+Host: https://docs.rakwireless.com
